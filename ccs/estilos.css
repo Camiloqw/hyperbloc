@@ -11,7 +11,11 @@ color: blueviolet;
     border: 1px solid rgb(150, 19, 19);
 }
 #cabecera{
+<<<<<<< HEAD
     background: #a50998;
+=======
+    background: #a1530a;
+>>>>>>> cabecera
     color:white;
     font-weight: bold;
     padding:0.5 em;
