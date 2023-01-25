@@ -10,6 +10,17 @@ color: blueviolet;
     padding: 1em;
     border: 1px solid #ddd;
 }
+#cabecera{
+    background: #0a0aa1;
+    color:white;
+    font-weight: bold;
+    padding:0.5 em;
+}
+#cabecera #tagline{
+
+    font-weight: normal;
+    font-size :0.8em
+}
 #container h1{
     font-size: 20px;
 }
